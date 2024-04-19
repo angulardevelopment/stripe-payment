@@ -23,6 +23,11 @@ I'm Sam, and I'm passionate about product engineering and web development. I cre
 Implemented basics of stripe payment API.
 https://www.figma.com/file/LQJZqYhqxmwRQnlY5ipQUG/cb-setup?node-id=0%3A1 
 
+### Packages used
+-    "@fortawesome/angular-fontawesome": "^0.10.2",
+-    "@fortawesome/fontawesome-svg-core": "^6.1.0",
+-    "@fortawesome/free-solid-svg-icons": "^6.1.0",
+
 ## Subscribe and Stay Updated!
 
 Don't miss out on new videos! Subscribe to my channel and hit the notification bell 🔔 to receive updates whenever I upload fresh content. Let's learn, laugh, and explore together!
